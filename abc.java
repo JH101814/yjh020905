@@ -1,11 +1,10 @@
-qqqqqqqqqqqqqqq
-wwwwwwwwww
-eeeeeeeeeee
-rrrrrrrrrrrrr
-ffffffffffffv
-vvvvvvvvv
-vvvvvvvvvvvv
-fffffffffffff
-ddddddddddddv
-
-vvvvvvvvvvv
+777777777777
+  7
+  7
+  7
+  77
+  7
+  5
+  5
+  5
+  5
